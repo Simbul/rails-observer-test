@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-ObserverTestInit::Application.config.secret_token = '79475fd24298fc277acd4b22fde30010778b2fdbdce40241f0125961857de7d3b904d35f757aad4705dab5c03b07985bb5ca5dfeff1032eff2fa6607ef6d57e5'
+ObserverTest::Application.config.secret_token = '97076c68c5f2f12a5847289f8f12bb2dbe4d64d2676cfeb83e8ac3da38ff8e5c87b23caf0578b6a7bc8bdce7ef9c321790ef5ff42a99672860361af7979a50ac'

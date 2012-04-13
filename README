@@ -1,0 +1,9 @@
+Run
+
+$ bundle install
+
+Then run
+
+$ rails server
+
+Then point your browser to http://localhost:3000 and follow the instructions.

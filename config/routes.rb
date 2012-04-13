@@ -1,4 +1,8 @@
-ObserverTestInit::Application.routes.draw do
+ObserverTest::Application.routes.draw do
+  # resources :thing, :only => :index
+  root :to => "things#index"
+  match 'things/test' => "things#test"
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

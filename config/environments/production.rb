@@ -1,4 +1,4 @@
-ObserverTestInit::Application.configure do
+ObserverTest::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb
 
   # Code is not reloaded between requests

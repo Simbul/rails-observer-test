@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-ObserverTestInit::Application.load_tasks
+ObserverTest::Application.load_tasks

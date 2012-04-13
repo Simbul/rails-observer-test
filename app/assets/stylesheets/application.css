@@ -11,3 +11,34 @@
  *= require_self
  *= require_tree .
 */
+
+#notice {
+  padding: 1em;
+  border-top: 1px solid blue;
+  border-bottom: 1px solid blue;
+  margin: 1em;
+}
+
+code {
+  font-weight: bold;
+}
+
+#testbutton {
+  display: inline-block;
+  padding: 1em;
+  border: 2px solid #349FD6;
+  background-color: #0082CC;
+  color: white;
+  font-weight: bold;
+}
+a#testbutton:hover {
+  border: 2px solid red;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  margin-top: 1.5em;
+}
